@@ -1,2 +1,2 @@
 # test1
-practica git y github
+# este comentario solo se ve en la rama qa
